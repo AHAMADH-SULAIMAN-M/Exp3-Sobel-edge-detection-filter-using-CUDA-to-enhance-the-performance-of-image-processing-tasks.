@@ -154,7 +154,7 @@ int main() {
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
+Thus the program has been executed by using CUDA to accelerate Sobel edge detection and improve image processing performance using parallel computation on GPU..
 
 Questions:
 
